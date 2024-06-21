@@ -4,7 +4,7 @@
 
 📍 We're a company based in Geneva, Switzerland 🇨🇭
 
-<img width="903" alt="Screenshot 2023-06-02 at 11 15 29 AM" src="https://github.com/decimalMath/.github/assets/532450/4cf833a1-56f8-4e80-ab69-354b3b64c18a">
+<img width="903" alt="Screenshot 2024-06-21 at 6 00 56 PM" src="https://github.com/decimalMath/.github/assets/532450/82433bee-c314-4b09-b0e4-7e7b37b2e506">
 
 Rue Saint-Nicolas-le-Vieux 9, 1227 Genève [(Google Maps)](https://maps.app.goo.gl/emHR7WuPVApAFQSy6)
 
